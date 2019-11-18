@@ -161,9 +161,7 @@ body{
 			display:flex;
 			flex-direction:column;
 			align-items:center;
-			background-image:url('../img/background2.jpg');
-			background-repeat:no-repeat;
-			background-size:cover;	
+			background-color:#c4c4c4;
 
 			h2{
 				color:#5385c1;
@@ -234,6 +232,10 @@ body{
 								border-radius:100%;
 								object-fit:contain;
 								max-width:160px;
+							}
+
+							a{
+								color:#555;
 							}
 						}
 					}
